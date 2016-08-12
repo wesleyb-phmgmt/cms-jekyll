@@ -2,7 +2,7 @@
 title: About
 permalink: "/about/"
 prep time: 10 minutes
-custom_css: 'body { background: red }'
+custom_css: 'body { background: blue }'
 ---
 
 * Test: {{ page['prep time'] }}
